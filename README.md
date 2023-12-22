@@ -1,5 +1,8 @@
 # Motorola-Tool
  Stock Rom Flasher tool for motorola
+
+> This is currently only available for hanoip, This repo is open for contribution and hopefully add support for more devices.
+
 ## Motorola Tool App 📱💻
  A simple Python application using Tkinter for managing Motorola ROM files and performing system operations.
 
